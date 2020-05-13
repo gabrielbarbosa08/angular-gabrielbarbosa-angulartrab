@@ -1,7 +1,7 @@
 <h3>
 taxas de entrega</h3>
 
-<div class="shipping-item" *ngFor="let shipping of shippingCosts | async">
-  <span>{{ shipping.type }}</span>
-  <span>{{ shipping.price | currency : "R$" }}</span>
+<div class="shopp-item" *ngFor="let shopp of shoppCosts | async">
+  <span>{{ shopp.type }}</span>
+  <span>{{ shopp.price | currency : "R$" }}</span>
 </div>

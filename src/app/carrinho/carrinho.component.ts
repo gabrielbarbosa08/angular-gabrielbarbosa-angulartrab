@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder } from '@angular/forms';
 
-import { CartService } from '../cart.service';
+import { CartService } from '../carrinho.service';
 
 @Component({
   selector: 'app-cart',
-  templateUrl: './cart.component.html',
-  styleUrls: ['./cart.component.css']
+  templateUrl: './carrinho.component.html',
+  styleUrls: ['./carrinho.component.css']
 })
 export class CartComponent implements OnInit {
   items;

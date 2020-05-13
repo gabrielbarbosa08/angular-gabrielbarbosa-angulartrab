@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
-import { CartService } from '../cart.service';
+import { CartService } from '../carrinho.service';
 
 @Component({
-  selector: 'app-shipping',
-  templateUrl: './shipping.component.html',
-  styleUrls: ['./shipping.component.css']
+  selector: 'app-shopp',
+  templateUrl: './shopp.component.html',
+  styleUrls: ['./shopp.component.css']
 })
 export class ShippingComponent implements OnInit {
   shippingCosts;
