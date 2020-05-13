@@ -1,7 +1,9 @@
 p {
   font-family: Lato;
 }
-
+.cor{
+  backgroud: rgb(48, 0, 48);
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
