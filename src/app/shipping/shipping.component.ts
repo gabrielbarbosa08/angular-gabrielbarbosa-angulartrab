@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { CartService } from '../cart.service';
 
 @Component({
-  selector: 'app-shopp',
+  selector: 'app-shipping',
   templateUrl: './shipping.component.html',
   styleUrls: ['./shopping.component.css']
 })
