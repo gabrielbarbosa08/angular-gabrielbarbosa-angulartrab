@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "taxa de importação",
     "price": 10.00
   },
   {
-    "type": "2 Dias",
+    "type": "transportadora",
     "price": 200.00
   },
   {
-    "type": "Postal",
+    "type": "valor do equipamento",
     "price": 1999.00
   }
 ]
