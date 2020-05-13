@@ -1,14 +1,23 @@
 [
   {
-    "type": "taxa de importação",
+    "type": "taxa de importação :   ",
+
     "price": 10.00
   },
   {
-    "type": "transportadora",
+    "type": "transportadora :   ",
+
     "price": 200.00
   },
   {
-    "type": "valor do equipamento",
+    "type": "valor do equipamento :    ",
+
     "price": 1999.00
+  }
+
+   {
+    "type": "valor total :    ",
+
+    "price": 2209.00
   }
 ]
